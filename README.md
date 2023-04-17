@@ -9,6 +9,9 @@ Mes dotfiles linux
 
 # Trucs & Astuces
 
+## Thème ZSH
+- [Avit](https://ohmyz.sh/)
+
 ## Icones
 
 - [ARC-Icons](https://www.gnome-look.org/p/1326508)
