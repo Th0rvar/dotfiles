@@ -5,7 +5,7 @@ Mes dotfiles linux
 - Environnement de bureau: XFCE4 (xubuntu-desktop)
 - Shell : ZSH (oh my zsh)
 
-[![Aperçu](neofetch.png)](https://raw.githubusercontent.com/Th0rvar/dotfiles/main/images/neofetch.png)
+[![Aperçu](https://i.imgur.com/2m8HGyl.png)](https://i.imgur.com/2m8HGyl.png)
 
 # Trucs & Astuces
 
