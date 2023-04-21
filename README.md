@@ -21,6 +21,11 @@ Mes dotfiles linux
 
 - ARC Flatabulous Darker (script d'installation dans packages)
 
+## Thème PHPStorm
+
+- Nightfall
+- Font : JetBrains Mono 13
+
 ## Docker
 
 ```
